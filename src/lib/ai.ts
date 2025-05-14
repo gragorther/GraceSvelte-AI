@@ -5,7 +5,7 @@ import { ChatOpenAI } from '@langchain/openai';
 import { HumanMessage } from '@langchain/core/messages';
 
 const model = new ChatOpenAI({
-	model: 'gpt-4.1-mini',
+	model: 'gpt-4.1',
 	temperature: 1,
 	maxTokens: 100,
 	apiKey: OPENAI_API_KEY
