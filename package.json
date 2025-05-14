@@ -18,7 +18,7 @@
 		"autoprefixer": "^10.4.21",
 		"postcss": "^8.5.3",
 		"prettier": "^3.5.3",
-		"prettier-plugin-svelte": "^3.3.3",
+		"prettier-plugin-svelte": "^3.4.0",
 		"prisma": "^6.7.0",
 		"svelte": "^4.2.19",
 		"svelte-check": "^4.1.7",
@@ -31,7 +31,8 @@
 		"@langchain/core": "^0.3.55",
 		"@langchain/openai": "^0.5.10",
 		"@prisma/client": "6.4.1",
-		"langchain": "^0.3.24",
+		"langchain": "^0.3.25",
+		"lucide-svelte": "^0.510.0",
 		"openai": "^4.98.0"
 	}
 }

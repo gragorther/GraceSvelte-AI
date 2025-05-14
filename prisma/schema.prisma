@@ -11,5 +11,7 @@ datasource db {
 }
 
 model Image {
-  
+  id Int @id @default(autoincrement())
+  base64 String
+  prompt String
 }
